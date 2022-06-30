@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "683845276507",
+    "firebase_url": "https://zeero-app-a35a4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "zeero-app-a35a4",
+    "storage_bucket": "zeero-app-a35a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683845276507:android:697d447206e1fc19cc007e",
+        "android_client_info": {
+          "package_name": "com.example.zeero_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683845276507-dh5mig14opvs5rg9fcb348mh98mkcr2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zeero_app",
+            "certificate_hash": "436c11878f3aec79c7acb99acb6ee24fcb35c807"
+          }
+        },
+        {
+          "client_id": "683845276507-uoq1t0id1sstppc2lh8t4frggi8jc29a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zeero_app",
+            "certificate_hash": "28b6dc60069ecc35a5090c15b7dc22f8e69bc90e"
+          }
+        },
+        {
+          "client_id": "683845276507-7stoo1dvplucoqpsleua1lad1qeh8fl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv2zs3Oo1--KLjvszPRfbp5nomAmTqnHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683845276507-7stoo1dvplucoqpsleua1lad1qeh8fl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
